@@ -5,7 +5,7 @@ A Python-based tool to manage Active Directory (AD) operations, such as user aut
 ## Features
 - Connect to an Active Directory server using administrator credentials.
 - Search for users based on filters (e.g., username, email).
-- Add new users to the directory
+- Add new users to the directory.
 
 ## Prerequisites
 - Python 3.6 or higher.
