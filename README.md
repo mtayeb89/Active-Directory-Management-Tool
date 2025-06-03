@@ -10,7 +10,7 @@ A Python-based tool to manage Active Directory (AD) operations, such as user aut
 ## Prerequisites
 - Python 3.6 or higher.
 - An Active Directory server to connect to.
-- Administrator credentials for the AD server
+- Administrator credentials for the AD server.
 
 ## Installation
 1. Clone this repository or download the script:
